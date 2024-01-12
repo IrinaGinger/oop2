@@ -25,3 +25,4 @@ test(('Magician attack'), () => {
 test(('Magician defence'), () => {
   expect(magician.defence).toBe(40);
 });
+

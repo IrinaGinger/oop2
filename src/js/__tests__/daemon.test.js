@@ -25,3 +25,4 @@ test(('Daemon attack'), () => {
 test(('Daemon defence'), () => {
   expect(daemon.defence).toBe(40);
 });
+

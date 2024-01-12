@@ -25,3 +25,4 @@ test(('Bowman attack'), () => {
 test(('Bowman defence'), () => {
   expect(bowman.defence).toBe(25);
 });
+
