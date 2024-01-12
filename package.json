@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:IrinaGinger/oop1.git"
+    "url": "git+ssh://git@github.com/IrinaGinger/oop1.git"
   },
   "keywords": [
     ""
