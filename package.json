@@ -1,15 +1,16 @@
 {
-  "name": "_template_",
+  "name": "Game",
   "version": "1.0.0",
-  "description": "_Шаблон проекта_",
+  "description": "Classes task1",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
+    "build": "webpack --mode production",
     "lint": "eslint ."
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IrinaGinger/___.git"
+    "url": "git+ssh://git@github.com:IrinaGinger/oop1.git"
   },
   "keywords": [
     ""
@@ -17,9 +18,9 @@
   "author": "Irina Kriuchkova",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IrinaGinger/___/issues"
+    "url": "https://github.com/IrinaGinger/oop1/issues"
   },
-  "homepage": "https://github.com/IrinaGinger/___#readme",
+  "homepage": "https://github.com/IrinaGinger/oop1#readme",
   "devDependencies": {
     "@babel/cli": "^7.23.4",
     "@babel/core": "^7.23.7",
